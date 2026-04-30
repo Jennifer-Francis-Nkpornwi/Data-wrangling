@@ -24,5 +24,5 @@ Improved overall data quality
 SQL (for data cleaning and transformation)
 
 ### Project Links
-- Medium Write-up: ([insert your link](https://medium.com/@jennifer.ezeanyim/my-data-wrangling-project-with-sql-mysql-50b6e6e53ba2))
+- Medium Write-up: ([MY DATA WRANGLING PROJECT WITH SQL (MYSQL)](https://medium.com/@jennifer.ezeanyim/my-data-wrangling-project-with-sql-mysql-50b6e6e53ba2))
 - SQL Code: (already in this repository)
